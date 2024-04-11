@@ -34,8 +34,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,git,react,tailwind,threejs" />
+   <br>
+     <img src="https://skillicons.dev/icons?i=debian,jest,docker,express,vite,vue,mongodb,mysql,nextjs,nodejs,postgres" />
+   <br>
 </div>
 
 <br/>
@@ -43,10 +45,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img src="https://raw.githubusercontent.com/Luckonis/Luckonis/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
