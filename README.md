@@ -15,12 +15,11 @@
  
  🌱 I’m currently learning **Docker, React, Three.js**
 
+ 📫 How to reach me **lucas.koenig@outlook.fr**
+
  </div>
  
 <div align="center"> 
-  <a href="lucas.koenig@outlook.fr">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://linkedin.com/in/lucas-koenig-29747723b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
