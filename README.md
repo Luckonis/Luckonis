@@ -26,6 +26,9 @@
   <a>
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+  <a href="https://linkedin.com/in/lucas-koenig-29747723b" target="_blank"> 
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /> 
+  </a>
 </div>
 
  <hr/>
