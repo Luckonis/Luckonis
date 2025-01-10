@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **Portfolio**
  
- 🌱 I’m currently learning **Docker, React, Three.js**
+ 🌱 I’m currently learning **Nextjs, Rust, Docker**
 
  </div>
  
