@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Portfolio**
+ 🔭 I’m currently working on **Epitech Project**
  
- 🌱 I’m currently learning **Nextjs, Rust, Docker**
+ 🌱 I’m currently learning **Rust, C#**
 
  </div>
  
