@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:lucas.koenig@outlook.fr" target="_blank"> 
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
 </div>
 
