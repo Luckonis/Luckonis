@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=luckonis&label=Profile%20views&color=0e75b6&style=flat" alt="luckonis" /> 
 </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+KOENIG!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+KOENIG!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from French</h3>
@@ -34,10 +34,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,git,react,tailwind,threejs" />
-   <br>
-     <img src="https://skillicons.dev/icons?i=debian,jest,docker,express,vite,vue,mongodb,mysql,nextjs,nodejs,postgres" />
-   <br>
+    <img src="https://skillicons.dev/icons?i=rust,html,css,js,ts,react,nextjs,vuejs,tailwindcss,java,gradle,elixir" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
+    <img src="https://skillicons.dev/icons?i=docker" />
+     <img src="https://skillicons.dev/icons?i=cs,dotnet,express,nodejs,php,mysql,postgresql,mongodb,linux,git,github,gitlab,tensorflow" />
 </div>
 
 <br/>
