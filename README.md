@@ -53,12 +53,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=luckonis&show_icons=true&locale=en" alt="luckonis" /></p>
-  <img src="https://streak-stats.demolab.com?user=Luckonis" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luckonis&show_icons=true&locale=en&theme=transparent" alt="luckonis" /></p>
+  <img src="https://streak-stats.demolab.com?user=Luckonis&theme=transparent" alt="GitHub Streak" />
 </div>
 
 <br/><br/>
 
 <hr/>
+
 
 
